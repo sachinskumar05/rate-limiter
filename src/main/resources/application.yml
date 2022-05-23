@@ -1,0 +1,12 @@
+
+spring:
+  application:
+    name: "@project.name@"
+  main:
+    banner-mode: off
+
+app-cfg:
+  max-rate: 10
+  min-rate: 1
+  min-time-millis: 1000
+  time-out-millis: 3000
